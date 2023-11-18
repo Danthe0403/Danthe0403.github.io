@@ -20,7 +20,7 @@
   <section id="seccion1">
     
    <a href="https://www.youtube.com/watch?v=K6q-fMAtYBE" target="_blank">
-     <img src="portal panda.jpg" alt="Foto 2" style="width: 100px; height: auto; float: right; margin-right: 0px; margin-bottom: 100px;">
+     <img src="https://github.com/Danthe0403/Danthe0403.github.io/blob/f2bc31945b37e52a67ca89d99211de2507e65ef2/portada%20panda.jpg" alt="Foto 2" style="width: 100px; height: auto; float: right; margin-right: 0px; margin-bottom: 100px;">
    </a>
 
     <p>rock es un termino amplio que agrupa una variedad de estilos de musica popular originados como rock and roll a principios de la decada de 1950 en estados unidos y que evoluciono en un gran rango de diferentes estilos en los años 1960, particularmente en ese pais y reino unido.
